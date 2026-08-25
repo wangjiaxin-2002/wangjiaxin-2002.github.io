@@ -33,15 +33,15 @@ const translations = {
     case3Insight: "量化不同群体的行为差异后，原本分散的执行动作呈现出可比较的路径特征。",
     case3Result: "输出多维度可视化分析报告，定位基层执行路径痛点，为平台规则优化提供数据支持。",
     journeyEyebrow: "经历与成长", journeyTitle: "我的路径并非直线，<br />但始终围绕<span>人与问题</span>。",
-    educationGroup: "教育经历", practiceGroup: "实习、项目与调研", master: "硕士", bachelor: "本科", internship: "实习", project: "项目", research: "调研", viewCase: "查看案例 ↗",
+    educationGroup: "教育经历", practiceGroup: "实习与项目", master: "硕士", bachelor: "本科", internship: "实习", project: "项目", research: "调研", viewCase: "查看案例 ↗",
     pkuTitle: "北京大学 · 社会政策硕士", pkuCopy: "主修：大数据挖掘与分析、社会政策调研与评估、中国社会政策。",
     meituanTitle: "美团 · 用户运营实习生", meituanCopy: "用户增长、跨团队项目推进、行业竞对监控与策略支持。",
     qingyanTitle: "清研智库 · 助理分析员", qingyanCopy: "内容生态搭建、B 端用户研究与多部门需求洞察。",
     tencentTitle: "腾讯“耕耘者”计划 · 数据分析组长", tencentCopy: "清洗并分析 1.5 万+篇文本，识别行为路径特征并输出可视化洞察。",
     communityTitle: "上海大学都市社区电话调查项目", communityCopy: "完成陌生用户触达与 36 份高质量样本交付，获“优秀访员”。",
     minzuTitle: "中央民族大学 · 社会学本科", minzuCopy: "连续三年校级一等奖学金，优秀学生干部，保研北京大学社会学系。",
-    contactEyebrow: "期待下一次对话", contactTitle: "如果你也在寻找<br />用户与业务之间的<span>答案</span>。",
-    contactCopy: "欢迎与我聊聊用户、数据、增长，或者一个值得被认真理解的问题。", downloadFullResume: "下载完整简历 ↓", copyEmail: "复制邮箱", copied: "邮箱已复制",
+    contactEyebrow: "期待加入你的团队", contactTitle: "如果你正在寻找<br />能理解用户、分析数据并<span>推动结果</span>的人。",
+    contactCopy: "我能够承担产品运营、用户运营、业务分析与用户研究相关工作，并以可靠的执行把任务推进到结果。", downloadFullResume: "下载完整简历 ↓", copyEmail: "复制邮箱", copied: "邮箱已复制",
     footerLine: "倾听真实的人，理解复杂的问题。", backTop: "回到顶部 ↑"
   },
   en: {
@@ -78,15 +78,15 @@ const translations = {
     case3Insight: "Once behavioral differences were quantified, scattered actions revealed comparable path patterns across user groups.",
     case3Result: "Delivered a multidimensional visual analysis that located execution pain points and informed platform rule optimization.",
     journeyEyebrow: "EXPERIENCE & GROWTH", journeyTitle: "My path isn’t linear,<br />but it always begins with <span>people</span>.",
-    educationGroup: "Education", practiceGroup: "Internships, Projects & Research", master: "MASTER'S", bachelor: "BACHELOR'S", internship: "INTERNSHIP", project: "PROJECT", research: "RESEARCH", viewCase: "View case ↗",
+    educationGroup: "Education", practiceGroup: "Internships & Projects", master: "MASTER'S", bachelor: "BACHELOR'S", internship: "INTERNSHIP", project: "PROJECT", research: "RESEARCH", viewCase: "View case ↗",
     pkuTitle: "Peking University · M.A. in Social Policy", pkuCopy: "Core coursework: Data mining and analysis, social policy research and evaluation, and Chinese social policy.",
     meituanTitle: "Meituan · User Operations Intern", meituanCopy: "User growth, cross-functional delivery, competitor monitoring and strategy support.",
     qingyanTitle: "Qingyan Think Tank · Assistant Analyst", qingyanCopy: "Content ecosystem design, B2B user research and cross-functional requirements.",
     tencentTitle: "Tencent Cultivator Program · Data Analysis Lead", tencentCopy: "Cleaned and analyzed 15K+ texts to identify behavioral path patterns and deliver visual insights.",
     communityTitle: "Shanghai Urban Community Survey", communityCopy: "Reached unfamiliar respondents, delivered 36 high-quality samples and received an Outstanding Interviewer award.",
     minzuTitle: "Minzu University of China · B.A. in Sociology", minzuCopy: "First-class scholarship for three consecutive years and recommended admission to Peking University.",
-    contactEyebrow: "LET’S START A CONVERSATION", contactTitle: "Looking for answers<br />between <span>users and business</span>?",
-    contactCopy: "Let’s talk about users, data, growth—or a question worth understanding with care.", downloadFullResume: "Download full résumé ↓", copyEmail: "Copy email", copied: "Email copied",
+    contactEyebrow: "READY TO JOIN YOUR TEAM", contactTitle: "Looking for someone who can<br />understand users, analyze data and <span>deliver results</span>?",
+    contactCopy: "I am ready to take on roles in product operations, user operations, business analytics and user research—and carry work through with reliable execution.", downloadFullResume: "Download full résumé ↓", copyEmail: "Copy email", copied: "Email copied",
     footerLine: "Listen to real people. Understand complex problems.", backTop: "Back to top ↑"
   }
 };

@@ -95,7 +95,7 @@ h2 span { color: var(--red); }
 .path-step h3 { margin: 0 0 21px; font-family: var(--serif); font-size: clamp(28px,3vw,39px); font-weight: 600; }
 .path-step h3 small { display: block; margin: 7px 0 0; color: var(--muted); font-family: var(--sans); font-size: 10px; font-weight: 400; letter-spacing: .1em; }
 .path-step > p:not(.step-number) { max-width: 275px; margin: 0 0 30px; color: var(--muted); font-size: 12px; line-height: 1.9; }
-.method-tag { width: fit-content; margin-top: auto; padding: 8px 10px; border: 1px solid var(--line); font-family: var(--mono); font-size: 9px; }
+.method-tag { width: fit-content; margin-top: auto; padding: 10px 13px; border: 1px solid var(--line); font-family: var(--mono); font-size: clamp(11px, .9vw, 13px); line-height: 1.5; }
 @keyframes approach-rule { from { transform: scaleX(0); } to { transform: scaleX(1); } }
 @keyframes approach-rule-mobile { from { transform: scaleY(0); } to { transform: scaleY(1); } }
 
