@@ -6,7 +6,7 @@ const translations = {
     navApproach: "我的方法", navCases: "案例", navJourney: "经历", navStory: "故事", navContact: "联系我",
     heroKicker: "用户洞察与策略", heroHello: "你好，我是", name: "王家欣",
     heroStatement: "我从真实用户中<span>发现问题</span>，<br />用数据<span>验证判断</span>，再推动方案<span>真正落地</span>。",
-    heroSummary: "<strong>北京大学社会政策专业 2027 届应届毕业生</strong>，关注用户、数据与业务之间的连接。正在寻找产品运营、用户运营、业务分析及用户研究等相关机会。",
+    heroSummary: "<strong>北京大学社会政策专业 2027 届应届毕业生</strong>，关注用户、数据与业务之间的连接。正在寻找产品、产品运营、用户运营、业务分析及用户研究等相关机会。",
     viewCases: "查看代表案例", downloadResume: "下载简历", contactMe: "联系我",
     sideNoteLabel: "个人方法关键词", sideNote: "从人的感受出发，<br />让事实成为坐标，<br />让行动抵达结果。",
     strengthLabel: "个人优势", insight: "洞察", empathy: "同理心", action: "行动力",
@@ -32,7 +32,7 @@ const translations = {
     case3Method: "使用 Python 完成 1.5 万+篇文本清洗与结构化处理，通过 TF-IDF 和 LSA 识别高频词与潜在主题。",
     case3Insight: "量化不同群体的行为差异后，原本分散的执行动作呈现出可比较的路径特征。",
     case3Result: "输出多维度可视化分析报告，定位基层执行路径痛点，为平台规则优化提供数据支持。",
-    journeyEyebrow: "经历与成长", journeyTitle: "我的路径并非直线，<br />但始终围绕<span>人与问题</span>。",
+    journeyEyebrow: "经历与成长", journeyTitle: "我的路径并非直线，<br />但始终围绕<span>人与问题</span>。", journeyNote: "从课堂到真实业务，我在不同场景中积累理解问题与推动结果的方法。",
     educationGroup: "教育经历", practiceGroup: "实习与项目", master: "硕士", bachelor: "本科", internship: "实习", project: "项目", research: "调研", viewCase: "查看案例 ↗",
     pkuTitle: "北京大学 · 社会政策硕士", pkuCopy: "主修：大数据挖掘与分析、社会政策调研与评估、中国社会政策。",
     meituanTitle: "美团 · 用户运营实习生", meituanCopy: "用户增长、跨团队项目推进、行业竞对监控与策略支持。",
@@ -44,7 +44,7 @@ const translations = {
     storyQuote: "从一条帖子开始，<br />走完一次从<span>流量到成交</span>的闭环。", storyMetricUnit: "单毕业约拍", storyMetricPeriod: "一个季度内", storyWhyTitle: "为什么开始", storyWhyCopy: "2026 年上半年，毕业季临近。我不想让摄影只停留在兴趣里，于是决定成为校园毕业约拍摄影师：看看自己能否把审美、沟通和执行，变成一项真正有人愿意付费的服务。", storyHowTitle: "如何快速行动", storyHowCopy: "时间有限，我集中观察小红书上其他摄影博主的经营模式，拆解从内容呈现、作品展示到咨询承接的路径；再结合自己的能力做取舍，边发布、边回应、边调整。", storyResultTitle: "结果如何", storyResultCopy: "通过小红书发帖，我把内容流量转化为真实预约，在一个季度内完成 40+ 单毕业拍摄，走完了从曝光、咨询到成交与交付的完整链路。", storyTakeaway: "这次个人经营实践让我验证了：我不仅能发现需求，也能快速学习、做出取舍，并把一次尝试推进到可量化的结果。",
     storyGalleryLead: "从定价，到账号定位，再到持续发布——这是我把想法一步步做出来的三个过程切片。", storyPriceTitle: "约拍价目表", storyPriceCopy: "把服务内容与价格讲清楚", storyPriceAlt: "毕业季约拍价目表", storyPriceAria: "查看完整毕业季约拍价目表", storyProfileTitle: "小红书主页名片", storyProfileCopy: "建立清晰的摄影账号定位", storyProfileAlt: "夹心五角星小红书主页名片", storyProfileAria: "查看完整小红书主页名片", storyPostsTitle: "毕业季发帖列表", storyPostsCopy: "用持续内容承接关注与咨询", storyPostsAlt: "小红书毕业季摄影发帖列表", storyPostsAria: "查看完整毕业季摄影发帖列表",
     contactEyebrow: "期待加入你的团队", contactTitle: "如果你正在寻找<br />能理解用户、分析数据并<span>推动结果</span>的人。",
-    contactCopy: "我能够承担产品运营、用户运营、业务分析与用户研究相关工作，并以可靠的执行把任务推进到结果。", downloadFullResume: "下载完整简历 ↓", copyEmail: "复制邮箱", copied: "邮箱已复制",
+    contactCopy: "我能够承担产品、产品运营、用户运营、业务分析与用户研究相关工作，并以可靠的执行把任务推进到结果。", downloadFullResume: "下载完整简历 ↓", copyEmail: "复制邮箱", copied: "邮箱已复制",
     footerLine: "倾听真实的人，理解复杂的问题。", backTop: "回到顶部 ↑"
   },
   en: {
@@ -54,7 +54,7 @@ const translations = {
     navApproach: "Approach", navCases: "Cases", navJourney: "Journey", navStory: "Story", navContact: "Contact",
     heroKicker: "USER INSIGHT & STRATEGY", heroHello: "Hi, I’m", name: "Jiaxin Wang",
     heroStatement: "I <span>discover problems</span> with real users,<br /><span>validate decisions</span> with data, and turn insight into <span>action</span>.",
-    heroSummary: "A <strong>Class of 2027 Social Policy graduate from Peking University</strong>, connecting people, data and business. Open to opportunities in product operations, user operations, business analytics and user research.",
+    heroSummary: "A <strong>Class of 2027 Social Policy graduate from Peking University</strong>, connecting people, data and business. Open to opportunities in product management, product operations, user operations, business analytics and user research.",
     viewCases: "View selected cases", downloadResume: "Download résumé", contactMe: "Contact me",
     sideNoteLabel: "Personal approach keywords", sideNote: "Start with people.<br />Use evidence as coordinates.<br />Turn insight into impact.",
     strengthLabel: "Core strengths", insight: "Insight", empathy: "Empathy", action: "Action",
@@ -80,7 +80,7 @@ const translations = {
     case3Method: "Cleaned and structured 15K+ texts with Python, then used TF-IDF and LSA to identify frequent terms and latent themes.",
     case3Insight: "Once behavioral differences were quantified, scattered actions revealed comparable path patterns across user groups.",
     case3Result: "Delivered a multidimensional visual analysis that located execution pain points and informed platform rule optimization.",
-    journeyEyebrow: "EXPERIENCE & GROWTH", journeyTitle: "My path isn’t linear,<br />but it always begins with <span>people</span>.",
+    journeyEyebrow: "EXPERIENCE & GROWTH", journeyTitle: "My path isn’t linear,<br />but it starts with <span>people</span>.", journeyNote: "Across classrooms and real business settings, I have built a practical way to understand problems and move work toward results.",
     educationGroup: "Education", practiceGroup: "Internships & Projects", master: "MASTER'S", bachelor: "BACHELOR'S", internship: "INTERNSHIP", project: "PROJECT", research: "RESEARCH", viewCase: "View case ↗",
     pkuTitle: "Peking University · M.A. in Social Policy", pkuCopy: "Core coursework: Data mining and analysis, social policy research and evaluation, and Chinese social policy.",
     meituanTitle: "Meituan · User Operations Intern", meituanCopy: "User growth, cross-functional delivery, competitor monitoring and strategy support.",
@@ -92,7 +92,7 @@ const translations = {
     storyQuote: "One post at a time,<br />I built a path from <span>traffic to bookings</span>.", storyMetricUnit: "paid shoots", storyMetricPeriod: "within one quarter", storyWhyTitle: "Why I started", storyWhyCopy: "In the first half of 2026, with graduation season approaching, I wanted photography to become more than an interest. I became a campus graduation photographer to see whether I could turn aesthetics, communication and execution into a service people would genuinely pay for.", storyHowTitle: "How I moved fast", storyHowCopy: "With limited time, I studied how other photographers operated on Xiaohongshu, breaking down the path from content and portfolio presentation to inquiry handling. I then made deliberate trade-offs around my own strengths, learning and adjusting as I posted and responded.", storyResultTitle: "What converted", storyResultCopy: "My Xiaohongshu posts turned content traffic into real bookings. Within one quarter, I completed more than 40 graduation shoots and experienced the full journey from exposure and inquiries to conversion and delivery.", storyTakeaway: "This small business experiment showed that I can spot demand, learn quickly, make focused trade-offs and carry an idea through to measurable results.",
     storyGalleryLead: "From pricing and account positioning to consistent publishing, these are three snapshots of how I turned the idea into something real.", storyPriceTitle: "Service & pricing", storyPriceCopy: "Making the offer and value easy to understand", storyPriceAlt: "Graduation photography service and pricing sheet", storyPriceAria: "View the full graduation photography pricing sheet", storyProfileTitle: "Xiaohongshu profile", storyProfileCopy: "Building a clear identity for the photography account", storyProfileAlt: "Jiaxin Wujiaoxing Xiaohongshu profile card", storyProfileAria: "View the full Xiaohongshu profile card", storyPostsTitle: "Graduation post series", storyPostsCopy: "Turning consistent content into attention and inquiries", storyPostsAlt: "Xiaohongshu graduation photography post list", storyPostsAria: "View the full graduation photography post list",
     contactEyebrow: "READY TO JOIN YOUR TEAM", contactTitle: "Looking for someone who can<br />understand users, analyze data and <span>deliver results</span>?",
-    contactCopy: "I am ready to take on roles in product operations, user operations, business analytics and user research—and carry work through with reliable execution.", downloadFullResume: "Download full résumé ↓", copyEmail: "Copy email", copied: "Email copied",
+    contactCopy: "I am ready to take on roles in product management, product operations, user operations, business analytics and user research—and carry work through with reliable execution.", downloadFullResume: "Download full résumé ↓", copyEmail: "Copy email", copied: "Email copied",
     footerLine: "Listen to real people. Understand complex problems.", backTop: "Back to top ↑"
   }
 };
