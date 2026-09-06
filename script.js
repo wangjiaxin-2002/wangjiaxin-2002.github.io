@@ -42,7 +42,7 @@ const translations = {
     minzuTitle: "中央民族大学 · 社会学本科", minzuCopy: "连续三年校级一等奖学金，优秀学生干部，保研北京大学社会学系。",
     storyEyebrow: "一次把兴趣变成生意的尝试", storyTitle: "分享一个<br />我的<span>小故事</span>。", storyNote: "从小红书的一条帖子开始，我在校园毕业季完成了一次从流量到成交的实践。",
     storyQuote: "从一条帖子开始，<br />走完一次从<span>流量到成交</span>的闭环。", storyMetricUnit: "单毕业约拍", storyMetricPeriod: "一个季度内", storyWhyTitle: "为什么开始", storyWhyCopy: "2026 年上半年，毕业季临近。我不想让摄影只停留在兴趣里，于是决定成为校园毕业约拍摄影师：看看自己能否把审美、沟通和执行，变成一项真正有人愿意付费的服务。", storyHowTitle: "如何快速行动", storyHowCopy: "时间有限，我集中观察小红书上其他摄影博主的经营模式，拆解从内容呈现、作品展示到咨询承接的路径；再结合自己的能力做取舍，边发布、边回应、边调整。", storyResultTitle: "结果如何", storyResultCopy: "通过小红书发帖，我把内容流量转化为真实预约，在一个季度内完成 40+ 单毕业拍摄，走完了从曝光、咨询到成交与交付的完整链路。", storyTakeaway: "这次个人经营实践让我验证了：我不仅能发现需求，也能快速学习、做出取舍，并把一次尝试推进到可量化的结果。",
-    storyGalleryLead: "从定价，到账号定位，再到持续发布——这是我把想法一步步做出来的三个过程切片。", storyPriceTitle: "约拍价目表", storyPriceCopy: "把服务内容与价格讲清楚", storyPriceAlt: "毕业季约拍价目表", storyPriceAria: "查看完整毕业季约拍价目表", storyProfileTitle: "小红书主页名片", storyProfileCopy: "建立清晰的摄影账号定位", storyProfileAlt: "夹心五角星小红书主页名片", storyProfileAria: "查看完整小红书主页名片", storyPostsTitle: "毕业季发帖列表", storyPostsCopy: "用持续内容承接关注与咨询", storyPostsAlt: "小红书毕业季摄影发帖列表", storyPostsAria: "查看完整毕业季摄影发帖列表",
+    storyGalleryLead: "从定价，到账号定位，再到持续发布——这是我把想法一步步做出来的三个过程切片。", storyPriceTitle: "约拍服务说明", storyPriceCopy: "翻阅价目表与拍摄须知", storyPriceAlt: "毕业季约拍价目表第一页", storyPriceNotesAlt: "毕业季约拍拍摄须知第二页", storyPriceCarouselAria: "毕业季约拍服务说明，共两页", storyPricePrev: "查看上一页价目表", storyPriceNext: "查看下一页价目表", storyPriceOpenAria: "在新窗口查看当前价目表原图", storyProfileTitle: "小红书主页名片", storyProfileCopy: "建立清晰的摄影账号定位", storyProfileAlt: "夹心五角星小红书主页名片", storyProfileAria: "查看完整小红书主页名片", storyPostsTitle: "毕业季发帖列表", storyPostsCopy: "用持续内容承接关注与咨询", storyPostsAlt: "新版小红书毕业季摄影发帖列表", storyPostsAria: "查看完整毕业季摄影发帖列表",
     contactEyebrow: "期待加入你的团队", contactTitle: "如果你正在寻找<br />能理解用户、分析数据并<span>推动结果</span>的人。",
     contactCopy: "我能够承担产品、产品运营、用户运营、业务分析与用户研究相关工作，并以可靠的执行把任务推进到结果。", downloadFullResume: "下载完整简历 ↓", copyEmail: "复制邮箱", copied: "邮箱已复制",
     footerLine: "倾听真实的人，理解复杂的问题。", backTop: "回到顶部 ↑"
@@ -90,7 +90,7 @@ const translations = {
     minzuTitle: "Minzu University of China · B.A. in Sociology", minzuCopy: "First-class scholarship for three consecutive years and recommended admission to Peking University.",
     storyEyebrow: "TURNING AN INTEREST INTO A SMALL BUSINESS", storyTitle: "Let me share<br />a <span>small story</span>.", storyNote: "It began with a Xiaohongshu post and became a hands-on lesson in converting attention into paid bookings during graduation season.",
     storyQuote: "One post at a time,<br />I built a path from <span>traffic to bookings</span>.", storyMetricUnit: "paid shoots", storyMetricPeriod: "within one quarter", storyWhyTitle: "Why I started", storyWhyCopy: "In the first half of 2026, with graduation season approaching, I wanted photography to become more than an interest. I became a campus graduation photographer to see whether I could turn aesthetics, communication and execution into a service people would genuinely pay for.", storyHowTitle: "How I moved fast", storyHowCopy: "With limited time, I studied how other photographers operated on Xiaohongshu, breaking down the path from content and portfolio presentation to inquiry handling. I then made deliberate trade-offs around my own strengths, learning and adjusting as I posted and responded.", storyResultTitle: "What converted", storyResultCopy: "My Xiaohongshu posts turned content traffic into real bookings. Within one quarter, I completed more than 40 graduation shoots and experienced the full journey from exposure and inquiries to conversion and delivery.", storyTakeaway: "This small business experiment showed that I can spot demand, learn quickly, make focused trade-offs and carry an idea through to measurable results.",
-    storyGalleryLead: "From pricing and account positioning to consistent publishing, these are three snapshots of how I turned the idea into something real.", storyPriceTitle: "Service & pricing", storyPriceCopy: "Making the offer and value easy to understand", storyPriceAlt: "Graduation photography service and pricing sheet", storyPriceAria: "View the full graduation photography pricing sheet", storyProfileTitle: "Xiaohongshu profile", storyProfileCopy: "Building a clear identity for the photography account", storyProfileAlt: "Jiaxin Wujiaoxing Xiaohongshu profile card", storyProfileAria: "View the full Xiaohongshu profile card", storyPostsTitle: "Graduation post series", storyPostsCopy: "Turning consistent content into attention and inquiries", storyPostsAlt: "Xiaohongshu graduation photography post list", storyPostsAria: "View the full graduation photography post list",
+    storyGalleryLead: "From pricing and account positioning to consistent publishing, these are three snapshots of how I turned the idea into something real.", storyPriceTitle: "Booking guide", storyPriceCopy: "Flip through pricing and shoot notes", storyPriceAlt: "Graduation photography pricing sheet, page one", storyPriceNotesAlt: "Graduation photography shoot notes, page two", storyPriceCarouselAria: "Two-page graduation photography booking guide", storyPricePrev: "View the previous pricing page", storyPriceNext: "View the next pricing page", storyPriceOpenAria: "Open the current pricing page at full size", storyProfileTitle: "Xiaohongshu profile", storyProfileCopy: "Building a clear identity for the photography account", storyProfileAlt: "Jiaxin Wujiaoxing Xiaohongshu profile card", storyProfileAria: "View the full Xiaohongshu profile card", storyPostsTitle: "Graduation post series", storyPostsCopy: "Turning consistent content into attention and inquiries", storyPostsAlt: "Updated Xiaohongshu graduation photography post list", storyPostsAria: "View the full graduation photography post list",
     contactEyebrow: "READY TO JOIN YOUR TEAM", contactTitle: "Looking for someone who can<br />understand users, analyze data and <span>deliver results</span>?",
     contactCopy: "I am ready to take on roles in product management, product operations, user operations, business analytics and user research—and carry work through with reliable execution.", downloadFullResume: "Download full résumé ↓", copyEmail: "Copy email", copied: "Email copied",
     footerLine: "Listen to real people. Understand complex problems.", backTop: "Back to top ↑"
@@ -139,6 +139,29 @@ document.querySelectorAll(".case-summary").forEach((button) => {
     panel.classList.toggle("open", willOpen);
   });
 });
+
+const priceCarousel = document.querySelector(".story-price-carousel");
+if (priceCarousel) {
+  const pricePages = [...priceCarousel.querySelectorAll(".price-page")];
+  const priceIndicator = priceCarousel.querySelector(".price-page-indicator b");
+  const priceOpenLink = priceCarousel.querySelector(".price-open-link");
+  let activePricePage = 0;
+
+  const showPricePage = (nextPage) => {
+    activePricePage = (nextPage + pricePages.length) % pricePages.length;
+    pricePages.forEach((page, index) => {
+      const isActive = index === activePricePage;
+      page.classList.toggle("is-active", isActive);
+      page.setAttribute("aria-hidden", String(!isActive));
+    });
+    priceIndicator.textContent = String(activePricePage + 1);
+    priceOpenLink.href = pricePages[activePricePage].dataset.fullSrc;
+  };
+
+  priceCarousel.querySelectorAll(".price-flip-button").forEach((button) => {
+    button.addEventListener("click", () => showPricePage(activePricePage + Number(button.dataset.priceDirection)));
+  });
+}
 
 const revealObserver = new IntersectionObserver((entries) => {
   entries.forEach((entry) => {

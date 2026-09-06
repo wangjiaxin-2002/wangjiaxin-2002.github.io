@@ -296,24 +296,33 @@
             <div class="story-gallery">
               <p class="story-gallery-lead" data-i18n="storyGalleryLead">从定价，到账号定位，再到持续发布——这是我把想法一步步做出来的三个过程切片。</p>
               <div class="story-gallery-grid">
-            <figure class="story-gallery-item">
-              <a class="story-gallery-frame" href="assets/story-price-list.jpg" target="_blank" rel="noopener" data-i18n-aria="storyPriceAria">
-                <img src="assets/story-price-list.jpg" alt="毕业季约拍价目表" data-i18n-alt="storyPriceAlt" loading="lazy" decoding="async" />
-              </a>
-              <figcaption><span>01</span><div><strong data-i18n="storyPriceTitle">约拍价目表</strong><small data-i18n="storyPriceCopy">把服务内容与价格讲清楚</small></div><b>↗</b></figcaption>
-            </figure>
-            <figure class="story-gallery-item">
-              <a class="story-gallery-frame" href="assets/story-xiaohongshu-profile.jpg" target="_blank" rel="noopener" data-i18n-aria="storyProfileAria">
-                <img src="assets/story-xiaohongshu-profile.jpg" alt="夹心五角星小红书主页名片" data-i18n-alt="storyProfileAlt" loading="lazy" decoding="async" />
-              </a>
-              <figcaption><span>02</span><div><strong data-i18n="storyProfileTitle">小红书主页名片</strong><small data-i18n="storyProfileCopy">建立清晰的摄影账号定位</small></div><b>↗</b></figcaption>
-            </figure>
-            <figure class="story-gallery-item">
-              <a class="story-gallery-frame" href="assets/story-post-list.jpg" target="_blank" rel="noopener" data-i18n-aria="storyPostsAria">
-                <img src="assets/story-post-list.jpg" alt="小红书毕业季摄影发帖列表" data-i18n-alt="storyPostsAlt" loading="lazy" decoding="async" />
-              </a>
-              <figcaption><span>03</span><div><strong data-i18n="storyPostsTitle">毕业季发帖列表</strong><small data-i18n="storyPostsCopy">用持续内容承接关注与咨询</small></div><b>↗</b></figcaption>
-            </figure>
+                <figure class="story-gallery-item">
+                  <div class="story-gallery-frame story-price-carousel" role="group" data-i18n-aria="storyPriceCarouselAria">
+                    <div class="price-page-stack">
+                      <img class="price-page is-active" src="assets/story-price-list.jpg" data-full-src="assets/story-price-list.jpg" alt="毕业季约拍价目表第一页" data-i18n-alt="storyPriceAlt" loading="lazy" decoding="async" aria-hidden="false" />
+                      <img class="price-page" src="assets/story-price-notes.jpg" data-full-src="assets/story-price-notes.jpg" alt="毕业季约拍拍摄须知第二页" data-i18n-alt="storyPriceNotesAlt" loading="lazy" decoding="async" aria-hidden="true" />
+                    </div>
+                    <div class="price-flip-controls">
+                      <button class="price-flip-button" type="button" data-price-direction="-1" data-i18n-aria="storyPricePrev">←</button>
+                      <span class="price-page-indicator" aria-live="polite"><b>1</b> / 2</span>
+                      <button class="price-flip-button" type="button" data-price-direction="1" data-i18n-aria="storyPriceNext">→</button>
+                    </div>
+                    <a class="price-open-link" href="assets/story-price-list.jpg" target="_blank" rel="noopener" data-i18n-aria="storyPriceOpenAria">↗</a>
+                  </div>
+                  <figcaption><span>01</span><div><strong data-i18n="storyPriceTitle">约拍服务说明</strong><small data-i18n="storyPriceCopy">翻阅价目表与拍摄须知</small></div><b>2 PAGES</b></figcaption>
+                </figure>
+                <figure class="story-gallery-item">
+                  <a class="story-gallery-frame" href="assets/story-xiaohongshu-profile.jpg" target="_blank" rel="noopener" data-i18n-aria="storyProfileAria">
+                    <img src="assets/story-xiaohongshu-profile.jpg" alt="夹心五角星小红书主页名片" data-i18n-alt="storyProfileAlt" loading="lazy" decoding="async" />
+                  </a>
+                  <figcaption><span>02</span><div><strong data-i18n="storyProfileTitle">小红书主页名片</strong><small data-i18n="storyProfileCopy">建立清晰的摄影账号定位</small></div><b>↗</b></figcaption>
+                </figure>
+                <figure class="story-gallery-item">
+                  <a class="story-gallery-frame" href="assets/story-post-list.jpg" target="_blank" rel="noopener" data-i18n-aria="storyPostsAria">
+                    <img src="assets/story-post-list.jpg" alt="小红书毕业季摄影发帖列表" data-i18n-alt="storyPostsAlt" loading="lazy" decoding="async" />
+                  </a>
+                  <figcaption><span>03</span><div><strong data-i18n="storyPostsTitle">毕业季发帖列表</strong><small data-i18n="storyPostsCopy">用持续内容承接关注与咨询</small></div><b>↗</b></figcaption>
+                </figure>
               </div>
             </div>
           </div>
