@@ -1,6 +1,6 @@
 const translations = {
   zh: {
-    pageTitle: "王家欣｜用户洞察与策略",
+    pageTitle: "王家欣｜个人主页",
     pageDescription: "王家欣的个人主页——从真实用户中发现问题，用数据验证判断，再推动方案落地。",
     skip: "跳到主要内容", navLabel: "主导航", languageLabel: "语言切换",
     navApproach: "我的方法", navCases: "案例", navJourney: "经历", navStory: "故事", navContact: "联系我",
@@ -47,7 +47,7 @@ const translations = {
     footerLine: "倾听真实的人，理解复杂的问题。", backTop: "回到顶部 ↑"
   },
   en: {
-    pageTitle: "Jiaxin Wang | User Insight & Strategy",
+    pageTitle: "Jiaxin Wang | Personal Homepage",
     pageDescription: "Jiaxin Wang turns real user needs into data-backed decisions and actionable strategies.",
     skip: "Skip to main content", navLabel: "Main navigation", languageLabel: "Language switcher",
     navApproach: "Approach", navCases: "Cases", navJourney: "Journey", navStory: "Story", navContact: "Contact",
